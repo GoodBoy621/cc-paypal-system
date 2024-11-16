@@ -1,2 +1,2 @@
 # cc-paypal-system
-PayPal like system implemented in minecraft usin CC:Tweaked
+I know, its a mess. before using the client code please install [basalt](https://basalt.madefor.cc/#/home/download)
